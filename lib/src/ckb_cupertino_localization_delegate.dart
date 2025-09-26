@@ -209,4 +209,22 @@ class CupertinoLocalizationCkb extends GlobalCupertinoLocalizations {
 
   @override
   String get cancelButtonLabel => 'هەڵوەشاندنەوە';
+  
+  @override
+  String get collapsedHint => 'کەشەیەک';
+  
+  @override
+  String get expandedHint => 'کراوەتەوە';
+  
+  @override
+  String get expansionTileCollapsedHint => 'پەلی کراوەتەوە بۆ زیاتر زانین';
+  
+  @override
+  String get expansionTileCollapsedTapHint => 'دەست بدە بۆ کردنەوە';
+  
+  @override
+  String get expansionTileExpandedHint => 'پەلی داخراو';
+  
+  @override
+  String get expansionTileExpandedTapHint => 'دەست بدە بۆ داخستن';
 }
