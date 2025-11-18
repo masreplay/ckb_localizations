@@ -1,6 +1,6 @@
 name: ckb_localizations
 description: "Support for kurdish sorani language ckb"
-version: 0.2.1
+version: 0.3.0
 homepage: https://github.com/masreplay/ckb_localizations
 
 environment:
