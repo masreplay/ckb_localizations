@@ -7,10 +7,6 @@ environment:
   sdk: ">=3.6.0 <4.0.0"
   flutter: ">=1.17.0"
 
-scripts:
-  publish: dart pub publish --force
-  fix-format: dart fix --apply && dart format -o write ./lib
-
 dependencies:
   flutter:
     sdk: flutter
