@@ -1,3 +1,15 @@
+## 0.4.0 - 2026-03-22
+
+### Added
+
+- Added `noResultsFound` localization string
+- Added `searchResultsFound` localization string
+- Added `radioButtonUnselectedLabel` localization string
+
+### Changed
+
+- Updated Flutter SDK version to 3.41.4
+
 ## 0.3.0 - 2025-11-18
 
 ### Added

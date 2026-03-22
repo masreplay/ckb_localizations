@@ -67,4 +67,13 @@ class WidgetsLocalizationCkb extends WidgetsLocalizations {
 
   @override
   String get shareButtonLabel => 'هاوبەشکردن';
+
+  @override
+  String get noResultsFound => 'هیچ ئەنجامێک نەدۆزرایەوە';
+
+  @override
+  String get searchResultsFound => 'ئەنجامەکانی گەڕان دۆزرایەوە';
+
+  @override
+  String get radioButtonUnselectedLabel => 'هەڵنەبژێردراو';
 }
